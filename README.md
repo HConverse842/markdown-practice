@@ -1,5 +1,5 @@
 # Geometry Dash
-![Geometry Dash Logo] (gd_logo.jpg)
+![Geometry Dash Logo](gd_logo.jpg)
 
 A seemingly simple game that has a massive community
 
