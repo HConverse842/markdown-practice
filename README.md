@@ -1,5 +1,7 @@
 # Geometry Dash
 
+A seemingly simple game that has a massive community
+
 ## Why Should You Get It? (3 Reasons)
 
 ### The Game has a large variety of fun things to do
@@ -22,5 +24,20 @@ These were the rules:
 - The level had to more than a minute long
 - The level had to have some correlation with the idea of Duality
 
-This is one of the winners for the contest: 
+This is one of the winners for the contest: link to video
+
+# The Competitive Side of Geometry Dash
+
+The competitive side of geometry dash, mainly being people who are capable of beating very difficult levels, goes into a lot of depth
+
+## What makes the top levels so difficult??
+
+The top 10 levels are all insanely difficult, very few people have ever managed to complete them  
+Each top level consists of a few elements that make them truly the hardest levels in the game
+
+To make a top level, usually you need to:
+- [] Frame Perfects (60fps, 120fps, 240fps)
+- [] Memory parts (not needed, but memory levels tend to be much harder)
+- [] Length (most top levels are more than 2 minutes long, with a few exceptions)
+
 
