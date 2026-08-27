@@ -25,7 +25,10 @@ These were the rules:
 - The level had to more than a minute long
 - The level had to have some correlation with the idea of Duality
 
-This is one of the winners for the contest: link to video
+This is all of the winners for the contest: [Duality Contest Winners](https://www.youtube.com/watch?v=indLvs7UXQg)
+### Quick look at some physics
+
+This is a code snippet used in the game to determine the gravity of one of the gamemodes
 
 # The Competitive Side of Geometry Dash
 
@@ -56,7 +59,7 @@ These are the top 5 players in the game currently:
 |Trick    |  3665.54    |Thinking Space II|         #2         |
 |Netermind|  3649.05    |  Tidal Wave     |         #5         |
 
-#Hello
+
 
 
 
