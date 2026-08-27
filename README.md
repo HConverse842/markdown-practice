@@ -36,8 +36,22 @@ The top 10 levels are all insanely difficult, very few people have ever managed 
 Each top level consists of a few elements that make them truly the hardest levels in the game
 
 To make a top level, usually you need to:
-- [] Frame Perfects (60fps, 120fps, 240fps)
-- [] Memory parts (not needed, but memory levels tend to be much harder)
-- [] Length (most top levels are more than 2 minutes long, with a few exceptions)
+- [ ] Frame Perfects (60fps, 120fps, 240fps)
+- [ ] Memory parts (not needed, but memory levels tend to be much harder)
+- [ ] Length (most top levels are more than 2 minutes long, with a few exceptions)
 
+## Who are the top 5 players in the game?
+
+Players are ranked based on **list points**, which are gained by completing any demon that is on the *demonlist*
+- List points given by a demon are determined by its placement
+- The more list point you have, the higher you are ranked
+
+These are the top 5 players in the game currently:
+| Player | List Points | Hardest Level | Placement of Level |
+|---------|-------------|-----------------|--------------------|
+|Zoink    |  7244.06    |  Society        |         #1         |
+|WPopOff  |  5472.95    |  Society        |         #1         |
+|zLevii   |  3711.44    |  Flamewall      |         #4         |
+|Trick    |  3665.54    |Thinking Space II|         #2         |
+|Netermind|  3649.05    |  Tidal Wave     |         #5         |
 
